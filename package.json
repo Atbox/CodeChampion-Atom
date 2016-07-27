@@ -1,7 +1,7 @@
 {
   "name": "code-champion",
   "main": "./lib/code-champion",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "When you write epic code, you'll need some epic music!",
   "keywords": [
     "music",
