@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle code-champion",
+        "command": "code-champion:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "code-champion",
+          "submenu": [
+            {
+              "label": "Epic Victory [ctrl+alt+v]",
+              "command": "code-champion:epic-victory"
+            },
+            {
+              "label": "Epic Fail [ctrl+alt+f]",
+              "command": "code-champion:epic-fail"
+            },
+            {
+              "label": "Stop  [ctrl+alt+f]",
+              "command": "code-champion:stop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

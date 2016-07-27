@@ -1,0 +1,19 @@
+{
+  "name": "code-champion",
+  "main": "./lib/code-champion",
+  "version": "0.1.0",
+  "description": "When you write epic code, you'll need some epic music!",
+  "keywords": [
+    "music",
+    "epic",
+    "fun",
+    "sounds"
+  ],
+  "repository": "https://github.com/Atbox/CodeChampion-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

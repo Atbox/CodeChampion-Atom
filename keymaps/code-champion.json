@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-v": "code-champion:epic-victory",
+    "ctrl-shift-f": "code-champion:epic-fail",
+    "ctrl-alt-s": "code-champion:stop"
+  }
+}
