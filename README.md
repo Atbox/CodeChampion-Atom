@@ -6,7 +6,7 @@ When you write epic code, you'll need some epic music!
 
 This package plays funny sound clips and epic musics on Atom Editor.
 
-![play epic music Atom Editor](https://lh3.googleusercontent.com/-kAfkrMEo2t4/Vu4cdKo7xvI/AAAAAAAACOg/23PD4yUbMaYI2IhS5SXTYbhjNbvEG2EMACCo/s598-Ic42/sublime-play-music.gif)
+![play epic music Atom Editor](https://dl.dropboxusercontent.com/content_link/UadMLrOqxczZWAoEt7Dv2OmCFfhV9XV6H8IKfgc4HCe8GEgS5vUHKCzphTF6ZzHG/file?raw=1&dl=0&duc_id=muZrSpK7Lg1lZ17wOBaJaM0A8g9oe43HCBfyXlIZclMiwz9qg1BkbNMU45rvqV1j&size=1024x768&size_mode=3)
 
 ## How To Install
 apm install code-champion
